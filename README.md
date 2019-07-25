@@ -1,8 +1,8 @@
-#What for
+# What for
 This tool is used for Summetrix Validater
 https://github.com/ryojsb/compare_portal
 
-#How to use
+# How to use
 ## collector.go
 go run collector.go -w <purpose> -host <ip> -port <port> -u <user -p <password> -sid <sid> -path1 <binpath> -path2 <filepath>
 
